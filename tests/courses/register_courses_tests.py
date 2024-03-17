@@ -2,7 +2,7 @@ import unittest
 from utilites.teststatus import TestStatus
 from pages.courses.register_courses_page import RegisterCoursesPage
 import pytest
-
+from tests import conftest
 
 
 @pytest.mark.usefixtures("oneTimeSetup","setUp")

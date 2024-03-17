@@ -174,3 +174,263 @@
 14/03/2024 07:06:58 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
 14/03/2024 07:06:58 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Login was successful
 14/03/2024 07:06:58 PM - TestStatus - INFO: TestValidLoginTest Case Passed
+17/03/2024 05:32:48 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 05:32:52 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 05:32:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:32:52 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:32:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:32:52 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 05:32:53 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:32:53 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 05:32:56 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 05:32:56 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 05:32:58 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 05:32:58 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 05:33:40 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 05:33:42 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 05:33:42 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:33:42 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:33:42 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:33:42 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 05:33:42 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:33:43 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 05:33:46 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 05:33:46 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 05:33:48 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 05:33:48 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 05:33:50 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 05:33:50 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 05:33:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:33:50 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:33:51 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:33:53 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 05:33:53 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:33:53 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 05:33:56 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 05:33:56 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 05:34:03 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 05:34:03 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+17/03/2024 05:36:59 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 05:37:03 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 05:37:03 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:37:04 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:37:04 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:37:04 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 05:37:04 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:37:04 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 05:37:07 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 05:37:07 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 05:37:09 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 05:37:09 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 05:37:10 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 05:37:14 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 05:37:14 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:37:14 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:37:14 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 05:37:14 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 05:37:14 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 05:37:15 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 05:37:18 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 05:37:18 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 05:37:23 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 05:37:23 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+17/03/2024 06:08:44 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 06:08:47 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 06:08:47 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:08:48 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:08:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:08:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 06:08:48 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:08:48 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 06:08:51 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 06:08:51 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 06:08:53 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 06:08:53 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 06:08:54 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 06:08:56 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 06:08:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:08:57 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:08:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:08:57 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 06:08:57 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:08:57 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 06:09:00 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 06:09:01 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 06:09:08 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 06:09:08 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+17/03/2024 06:26:49 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 06:26:56 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 06:26:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:26:57 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:26:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:26:57 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 06:26:57 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:26:57 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 06:27:00 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 06:27:00 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 06:27:02 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 06:27:02 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 06:27:07 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 06:27:14 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 06:27:14 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:27:14 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:27:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:27:15 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 06:27:15 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:27:15 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 06:27:18 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 06:27:18 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 06:27:28 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 06:27:28 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+17/03/2024 06:30:59 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 06:31:06 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 06:31:06 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:31:06 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:31:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:31:07 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 06:31:07 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:31:07 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 06:31:10 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 06:31:10 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 06:31:12 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 06:31:12 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 06:31:16 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 06:31:21 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 06:31:21 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:31:21 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:31:21 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 06:31:21 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 06:31:21 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 06:31:21 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 06:31:24 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 06:31:24 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 06:31:34 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 06:31:34 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+17/03/2024 07:50:41 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 07:50:44 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 07:50:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 07:50:45 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 07:50:45 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 07:50:45 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 07:50:45 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 07:50:45 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 07:50:48 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 07:50:48 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 07:50:50 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 07:50:50 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 07:50:52 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 07:50:57 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 07:50:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 07:50:57 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 07:50:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 07:50:57 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 07:50:57 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 07:50:57 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 07:51:00 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 07:51:00 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 07:51:14 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 07:51:14 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+17/03/2024 11:47:31 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 11:47:34 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 11:47:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 11:47:34 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 11:47:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 11:47:35 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 11:47:35 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 11:47:35 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 11:47:38 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 11:47:38 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 11:47:40 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+17/03/2024 11:47:40 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+17/03/2024 11:47:41 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+17/03/2024 11:47:44 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+17/03/2024 11:47:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 11:47:44 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 11:47:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+17/03/2024 11:47:45 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+17/03/2024 11:47:45 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+17/03/2024 11:47:45 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+17/03/2024 11:47:48 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+17/03/2024 11:47:48 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+17/03/2024 11:47:56 PM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+17/03/2024 11:47:56 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+18/03/2024 12:25:39 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+18/03/2024 12:25:40 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+18/03/2024 12:25:40 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:25:41 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:25:41 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:25:41 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+18/03/2024 12:25:41 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:25:41 AM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+18/03/2024 12:25:44 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+18/03/2024 12:25:44 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+18/03/2024 12:25:46 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+18/03/2024 12:25:47 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+18/03/2024 12:25:47 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:25:47 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:25:47 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:25:47 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+18/03/2024 12:25:47 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:25:47 AM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+18/03/2024 12:25:50 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+18/03/2024 12:25:50 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+18/03/2024 12:25:52 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+18/03/2024 12:25:52 AM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+18/03/2024 12:25:52 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+18/03/2024 12:25:53 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+18/03/2024 12:25:53 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:25:53 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:25:53 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:25:53 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+18/03/2024 12:25:53 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:25:53 AM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+18/03/2024 12:25:56 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+18/03/2024 12:25:56 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+18/03/2024 12:26:01 AM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+18/03/2024 12:26:01 AM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+18/03/2024 12:26:01 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+18/03/2024 12:26:01 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Title is Incorrect
+18/03/2024 12:26:01 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+18/03/2024 12:26:01 AM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+18/03/2024 12:26:01 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Login was successful
+18/03/2024 12:26:01 AM - TestStatus - INFO: TestValidLoginTest Case Passed
+18/03/2024 12:38:32 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+18/03/2024 12:38:33 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+18/03/2024 12:38:33 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:38:33 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:38:34 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:38:34 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+18/03/2024 12:38:34 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:38:34 AM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+18/03/2024 12:38:37 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+18/03/2024 12:38:37 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+18/03/2024 12:38:39 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+18/03/2024 12:38:40 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+18/03/2024 12:38:40 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:38:40 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:38:40 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:38:40 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+18/03/2024 12:38:40 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:38:41 AM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+18/03/2024 12:38:44 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+18/03/2024 12:38:44 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+18/03/2024 12:38:46 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+18/03/2024 12:38:46 AM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+18/03/2024 12:38:46 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+18/03/2024 12:38:47 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+18/03/2024 12:38:47 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:38:47 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:38:47 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+18/03/2024 12:38:47 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+18/03/2024 12:38:47 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+18/03/2024 12:38:47 AM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: ID
+18/03/2024 12:38:50 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+18/03/2024 12:38:50 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+18/03/2024 12:38:55 AM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+18/03/2024 12:38:55 AM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+18/03/2024 12:38:55 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+18/03/2024 12:38:55 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Title is Incorrect
+18/03/2024 12:38:55 AM - LoginPage - INFO: Element found with locator: dropdownMenu1 and  locatorType: id
+18/03/2024 12:38:55 AM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
+18/03/2024 12:38:55 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Login was successful
+18/03/2024 12:38:55 AM - TestStatus - INFO: TestValidLoginTest Case Passed
