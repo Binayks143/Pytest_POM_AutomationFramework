@@ -24,7 +24,7 @@ class WebDriverFactory():
     def getWebDriverInstance(self):
         baseurl = "https://www.letskodeit.com/"
 
-        if self.browser=="ieexplorer":
+        if self.browser=="ie":
             driver=webdriver.Ie()
         elif self.browser=="firefox":
             driver=webdriver.Firefox()

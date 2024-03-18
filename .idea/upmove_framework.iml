@@ -4,7 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="python_selenium" />
     <orderEntry type="module" module-name="pythonProject" />
     <orderEntry type="module" module-name="selenium_pratice" />
     <orderEntry type="module" module-name="Temp" />

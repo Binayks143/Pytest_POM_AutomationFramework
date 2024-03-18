@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../temp/.idea/Temp.iml" filepath="$PROJECT_DIR$/../temp/.idea/Temp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../python_selenium/.idea/python_selenium.iml" filepath="$PROJECT_DIR$/../python_selenium/.idea/python_selenium.iml" />
       <module fileurl="file://$PROJECT_DIR$/../selenium_pratice/.idea/selenium_pratice.iml" filepath="$PROJECT_DIR$/../selenium_pratice/.idea/selenium_pratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/upmove_framework.iml" filepath="$PROJECT_DIR$/.idea/upmove_framework.iml" />
     </modules>
