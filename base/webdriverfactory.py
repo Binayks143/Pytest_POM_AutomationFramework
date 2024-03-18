@@ -33,7 +33,7 @@ class WebDriverFactory():
         else:
             driver=webdriver.Chrome()
 
-        driver.implicitly_wait(3)
+        driver.implicitly_wait(10)
         driver.maximize_window()
         driver.get(baseurl)
         return driver
