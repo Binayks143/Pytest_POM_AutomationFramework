@@ -1,6 +1,5 @@
 # This is the default file name for pytest configuration
 # when scope =module it will run only one time in the module
-# example is in test_case_03.py
 # scopr =session,class,module
 
 """
