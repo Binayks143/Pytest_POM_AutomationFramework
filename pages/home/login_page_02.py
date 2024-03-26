@@ -32,6 +32,7 @@ class LoginPage(BasePage):
 
     def clickLoginButton(self):
         self.elementClick(self._login_button,"xpath")
+        time.sleep(3)
 
     def clearFields(self):
         emailField=self.getElement(self._email_field)

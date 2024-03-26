@@ -1,6 +1,6 @@
 # This is the default file name for pytest configuration
 # when scope =module it will run only one time in the module
-# scopr =session,class,module
+# scope =session,class,module
 
 """
 This code snippet seems to be related to setting up fixtures and options for pytest,
@@ -40,6 +40,7 @@ Overall, this code allows users to specify command-line options (--browser and -
  options during test execution.
  These options can be useful for configuring test environments and behavior based on the user's needs.
 """
+
 import pytest
 from base.webdriverfactory import WebDriverFactory
 from pages.home.login_page_02 import LoginPage
@@ -61,7 +62,7 @@ def oneTimeSetup(request, browser):
 
     # Login the webpage in conftest
     lp = LoginPage(driver)
-    lp.login("binayks143@yahoo.com", "Binay1234@")
+    lp.login("binayks143@yahoo.com", "Binay123@")
 
     if request.cls is not None:
         request.cls.driver = driver

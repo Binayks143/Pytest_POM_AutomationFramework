@@ -1,3 +1,7 @@
+import time
+
+from selenium.webdriver.support.select import Select
+
 import utilites.custom_logger as cl
 import logging
 from base.basepage import BasePage
@@ -12,27 +16,26 @@ class RegisterCoursesPage(BasePage):
 
     #Locators:
     __allCourses="//a[contains(text(),'ALL COURSES')]"  #Xpath
-    __searchTextBox="search"    #id
-    __searchIcon="find-course search-course" # classname
+    __searchTextBox="//input[@id='search']"    #Xpath
+    __searchIcon="i" # tagname
     __courseName="//h4[contains(text(),'JavaScript for beginners')]"  #xpath
     __enrollButton='//button[contains(text(),"Enroll in Course")]'   #xpath
-    __cardNumber="cardnumber"  #name
-    __cardExpiryDate="exp-date"   #name
-    __cardCVV="cvc"   #name
-    __countryNameDropdown="form-control country-list"   #classname
+    __cardNumber="//input[@placeholder='Card Number']"  #xpath
+    __cardExpiryDate="//input[@name='exp-date']"   #xpath
+    __cardCVV="//input[@name='cvc']"   #name
+    __countryNameDropdown="country-list"   #name
     __countryName="Australia"
     __buyButton='(//button[@type="button"])[5]' #xpath
-    __errorMessage="//p[@class='dynamic-text']/text()[contains(., 'Your card number is incorrect')]" #xpath
-
+    __errorMessage="//div[@role='alert']//p[@class='dynamic-text']" #xpath
 
     def clickAllCourses(self):
         self.elementClick(self.__allCourses,"xpath")
 
     def enterCourseName(self,CourseName):
-        self.sendKeys(CourseName,self.__searchTextBox)
+        self.sendKeys(CourseName,self.__searchTextBox,'xpath')
 
     def clickSearchIcon(self):
-        self.elementClick(self.__searchIcon,'classname')
+        self.elementClick(self.__searchIcon,'tagname')
 
     def clickCourse(self):
         self.elementClick(self.__courseName,"xpath")
@@ -41,40 +44,54 @@ class RegisterCoursesPage(BasePage):
         self.elementClick(self.__enrollButton,"xpath")
 
     def enterCardDetails(self,cardNum):
-        self.sendKeys(cardNum,self.__cardNumber,'classname')
+        time.sleep(6)
+        self.switchFrameByIndex(self.__cardNumber,'xpath')
+        self.sendKeys(cardNum,self.__cardNumber,'xpath')
+        self.switchToDefaultContent()
 
     def enterCardExpiry(self,cardExpiry):
-        self.sendKeys(cardExpiry,self.__cardExpiryDate,"classname")
+        self.switchFrameByIndex(self.__cardExpiryDate,'xpath')
+        self.sendKeys(cardExpiry,self.__cardExpiryDate,"xpath")
+        self.switchToDefaultContent()
 
     def enterCvvDetails(self,CardCvv):
-        self.sendKeys(CardCvv,self.__cardCVV,"classname")
+        self.switchFrameByIndex(self.__cardCVV,'xpath')
+        self.sendKeys(CardCvv,self.__cardCVV,"xpath")
+        self.switchToDefaultContent()
+
 
     def enterCreditCardInformation(self,cardNum,cardExpiryDate,cardCvv):
         self.enterCardDetails(cardNum)
         self.enterCardExpiry(cardExpiryDate)
         self.enterCvvDetails(cardCvv)
 
-
-    def selectCountry(self):
-        self.elementClick(self.__countryNameDropdown,"classname")
+    def selectCountry(self,country):
+        self.selectDropdownOption(locator=self.__countryNameDropdown,locatorType='name',
+                                  option="visibleText",optionData=self.__countryName)
 
     def clickBuyButton(self):
         self.elementClick(self.__buyButton,"xpath")
 
-    def enrollCourse(self,name,cn,ed,cvv):
+    def enrollCourse(self,course_name,card_no,expiry_date,cvv,country):
         self.clickAllCourses()
-        self.enterCourseName(name)
+        self.enterCourseName(course_name)
         self.clickSearchIcon()
         self.clickCourse()
         self.clickOnEnrollButton()
         self.webScroll(direction="down")
-        self.enterCreditCardInformation(cn,ed,cvv)
-        self.clickBuyButton()
+        self.enterCreditCardInformation(card_no,expiry_date,cvv)
+        self.selectCountry(country)
 
     def verifyEnrollFailed(self):
+        self.clickBuyButton()
         messageElement=self.waitForElement(self.__errorMessage,"xpath")
         result=self.isElementDisplayed(element=messageElement)
         return result
+
+    def verifyButtonEnabled(self):
+        result=self.isEnabled(locator=self.__buyButton,locatorType="xpath",info="Buy Button")
+        return not result
+        #Returning opposite because we have to varified its a disabled.
 
 
 
