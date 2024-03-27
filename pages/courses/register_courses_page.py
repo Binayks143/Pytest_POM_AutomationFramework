@@ -17,8 +17,8 @@ class RegisterCoursesPage(BasePage):
     #Locators:
     __allCourses="//a[contains(text(),'ALL COURSES')]"  #Xpath
     __searchTextBox="//input[@id='search']"    #Xpath
-    __searchIcon="i" # tagname
-    __courseName="//h4[contains(text(),'JavaScript for beginners')]"  #xpath
+    __searchIcon="//button[@class='find-course search-course']" # xpath
+    __courseName="//h4[@class='dynamic-heading']"  #xpath
     __enrollButton='//button[contains(text(),"Enroll in Course")]'   #xpath
     __cardNumber="//input[@placeholder='Card Number']"  #xpath
     __cardExpiryDate="//input[@name='exp-date']"   #xpath
@@ -35,12 +35,14 @@ class RegisterCoursesPage(BasePage):
         self.sendKeys(CourseName,self.__searchTextBox,'xpath')
 
     def clickSearchIcon(self):
-        self.elementClick(self.__searchIcon,'tagname')
+        self.elementClick(self.__searchIcon,'xpath')
+        time.sleep(3)
 
     def clickCourse(self):
         self.elementClick(self.__courseName,"xpath")
 
     def clickOnEnrollButton(self):
+        time.sleep(5)
         self.elementClick(self.__enrollButton,"xpath")
 
     def enterCardDetails(self,cardNum):
@@ -65,14 +67,15 @@ class RegisterCoursesPage(BasePage):
         self.enterCardExpiry(cardExpiryDate)
         self.enterCvvDetails(cardCvv)
 
-    def selectCountry(self,country):
+    def selectCountry(self,countryName):
         self.selectDropdownOption(locator=self.__countryNameDropdown,locatorType='name',
-                                  option="visibleText",optionData=self.__countryName)
+                                  option="visibleText",optionData=countryName)
+        time.sleep(2)
 
     def clickBuyButton(self):
         self.elementClick(self.__buyButton,"xpath")
 
-    def enrollCourse(self,course_name,card_no,expiry_date,cvv,country):
+    def enrollCourse(self,course_name,card_no,expiry_date,cvv,countryName):
         self.clickAllCourses()
         self.enterCourseName(course_name)
         self.clickSearchIcon()
@@ -80,7 +83,7 @@ class RegisterCoursesPage(BasePage):
         self.clickOnEnrollButton()
         self.webScroll(direction="down")
         self.enterCreditCardInformation(card_no,expiry_date,cvv)
-        self.selectCountry(country)
+        self.selectCountry(countryName)
 
     def verifyEnrollFailed(self):
         self.clickBuyButton()

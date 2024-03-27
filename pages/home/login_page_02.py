@@ -4,12 +4,14 @@ import logging
 import time
 import utilites.custom_logger as cl
 from base.basepage import BasePage
+from pages.common.navigate_page import NavigationPage
 
 class LoginPage(BasePage):
     log=cl.customLogger(logging.DEBUG) #overwriting the selenium driver logs
     def __init__(self,driver):
         super().__init__(driver)
         self.driver=driver
+        self.nav=NavigationPage(driver)
 
     #locators
     _signin_link="//a[contains(text(),'Sign In')]"
@@ -18,6 +20,7 @@ class LoginPage(BasePage):
     _login_button="//button[@value='Login']"
     _loginSuccessID="dropdownMenu1"
     _loginPageError="//span[contains(text(),'Incorrect login details. Please try again.')]"
+    _logout="Logout"        #LinkText
 
     #using selenium driver page implemention
     def clickLoginLink(self):
@@ -54,6 +57,10 @@ class LoginPage(BasePage):
         #print("TITLE="+self.getTitle())
         return self.verifyPageTitle("My Courses")
 
+    def logout(self):
+        self.nav.navigateToUserIcon()
+        self.elementClick(self._logout,"linktext")
+
     def login(self,username="",password=""):
         self.clickLoginLink()
         self.clearFields()
@@ -62,4 +69,8 @@ class LoginPage(BasePage):
         time.sleep(3)
         self.clickLoginButton()
         time.sleep(2)
+
+
+
+
 

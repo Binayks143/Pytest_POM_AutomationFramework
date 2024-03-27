@@ -28,6 +28,7 @@ class LoginPageTests(unittest.TestCase):
 
     @pytest.mark.run(order=1)
     def test_inValidLogin(self):
+        self.lp.logout()
         self.lp.login("binayks143@yahoo.com","Binay1234@")
         output=self.lp.varifyInvalidLogin()
         assert output==True
