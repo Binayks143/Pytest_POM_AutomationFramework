@@ -1,4 +1,11 @@
 """
+Overall, this class provides a simple factory method (getWebDriverInstance) to create instances of
+Selenium WebDriver for different web browsers,
+with common configurations such as implicit waits, window maximization, and navigation to a base URL.
+"""
+
+
+"""
 @package base
 
 WebDriver Factory class implementation
@@ -9,9 +16,9 @@ Example:
     wdf.getWebDriverInstance()
 """
 
-import traceback
+'''
+#old FLOW
 from selenium import webdriver
-
 class WebDriverFactory():
     def __init__(self,browser):
         self.browser=browser
@@ -33,17 +40,52 @@ class WebDriverFactory():
         else:
             driver=webdriver.Chrome()
 
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(5)
         driver.maximize_window()
         driver.get(baseurl)
         return driver
+'''
 
+
+
+#### NEW CODE USEING WEBDRIVER MANAGER
 
 """
-Get WebDriver Instance based on the browser configuration
-       Returns:
-       'WebDriver Instance'
+WebDriver Manager is a tool that helps automate the management of WebDriver binaries 
+(like ChromeDriver, GeckoDriver, etc.) required by Selenium WebDriver. 
+It can automatically download the required WebDriver binary for the specific browser 
+version being used, and ensures that the WebDriver binary is available and up-to-date.
 """
 
 
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
+class WebDriverFactory():
+    def __init__(self, browser):
+        self.browser = browser
+
+    def getWebDriverInstance(self):
+        baseurl = "https://www.letskodeit.com/"
+
+        if self.browser == "ie":
+            driver = webdriver.Edge()
+        elif self.browser == "firefox":
+            GeckoDriverManager().install()
+            driver = webdriver.Firefox()
+        elif self.browser == "chrome":
+            ChromeDriverManager().install()
+            driver = webdriver.Chrome()
+        elif self.browser == "edge":
+            EdgeChromiumDriverManager().install()
+            driver = webdriver.Edge()
+        else:
+            ChromeDriverManager().install()
+            driver = webdriver.Chrome()
+
+        driver.implicitly_wait(5)
+        driver.maximize_window()
+        driver.get(baseurl)
+        return driver
