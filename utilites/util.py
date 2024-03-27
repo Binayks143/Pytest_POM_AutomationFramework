@@ -1,4 +1,10 @@
 """
+These utility methods provide functionalities for common tasks such as generating unique names,
+waiting for a specified time, comparing text, and comparing lists.
+They are designed to be reusable across different test scripts or applications.
+"""
+
+"""
 @package utilities
 
 Util class implementation

@@ -1,3 +1,10 @@
+"""
+ this code defines a function customLogger that creates a logger object with a specified
+ logging level and configuration, including writing log messages to a file.
+ It uses the inspect module to dynamically obtain the name of the calling function/method as
+ the name of the logger.
+"""
+
 import inspect
 import logging
 

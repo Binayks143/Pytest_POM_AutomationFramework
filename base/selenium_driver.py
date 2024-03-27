@@ -1,3 +1,8 @@
+"""
+Overall, this class provides a comprehensive set of methods for interacting with web elements
+and performing actions required for web automation testing using Selenium WebDriver.
+"""
+
 import traceback
 from selenium.webdriver.common.by import By
 from traceback import print_stack
@@ -79,7 +84,6 @@ class SeleniumDriver():
 
     def getElementList(self, locator, locatorType="id"):
         """
-        NEW METHOD
         Get list of elements
         """
         element = None
@@ -96,7 +100,7 @@ class SeleniumDriver():
 
     def elementClick(self, locator="", locatorType="id", element=None):
         """
-        Click on an element -> MODIFIED
+        Click on an element
         Either provide element or a combination of locator and locatorType
         """
         try:
@@ -112,7 +116,7 @@ class SeleniumDriver():
 
     def sendKeys(self, data, locator="", locatorType="id", element=None):
         """
-        Send keys to an element -> MODIFIED
+        Send keys to an element
         Either provide element or a combination of locator and locatorType
         """
         try:
@@ -129,7 +133,7 @@ class SeleniumDriver():
 
     def sendKeysWhenReady(self, data, locator="", locatorType="id"):
         """
-        Send keys to an element -> MODIFIED
+        Send keys to an element
         Either provide element or a combination of locator and locatorType
         """
         try:
@@ -168,7 +172,6 @@ class SeleniumDriver():
 
     def getText(self, locator="", locatorType="id", element=None, info=""):
         """
-        NEW METHOD
         Get 'Text' on an element
         Either provide element or a combination of locator and locatorType
         """
@@ -193,7 +196,7 @@ class SeleniumDriver():
 
     def isElementPresent(self, locator="", locatorType="id", element=None):
         """
-        Check if element is present -> MODIFIED
+        Check if element is present
         Either provide element or a combination of locator and locatorType
         """
         try:
@@ -213,7 +216,6 @@ class SeleniumDriver():
 
     def isElementDisplayed(self, locator="", locatorType="id", element=None):
         """
-        NEW METHOD
         Check if element is displayed
         Either provide element or a combination of locator and locatorType
         """
@@ -340,13 +342,6 @@ class SeleniumDriver():
     def switchToDefaultContent(self):
         """
         Switch to default content
-
-        Parameters:
-            None
-        Returns:
-            None
-        Exception:
-            None
         """
         self.driver.switch_to.default_content()
 

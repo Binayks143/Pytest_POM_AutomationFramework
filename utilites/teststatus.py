@@ -1,4 +1,10 @@
 """
+This class is designed to provide methods for marking and tracking test case results,
+logging them appropriately, and handling failures in a test suite.
+It integrates with Selenium WebDriver functionality inherited from the SeleniumDriver superclass.
+"""
+
+"""
 @package utilities
 
 CheckPoint class implementation

@@ -41,6 +41,10 @@ Overall, this code allows users to specify command-line options (--browser and -
  These options can be useful for configuring test environments and behavior based on the user's needs.
 """
 
+#NOTE : to use this conftest always go project directory and run the test cases
+#E.g.  python -m pytest -s -v .\tests\home\login3_test.py
+
+
 import pytest
 from base.webdriverfactory import WebDriverFactory
 from pages.home.login_page_02 import LoginPage
