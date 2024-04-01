@@ -2,7 +2,7 @@ import time
 import unittest
 from pages.home.login_page_02 import LoginPage
 import pytest
-from utilites.teststatus import TestStatus
+from utilities.teststatus import TestStatus
 
 @pytest.mark.usefixtures("setUp","oneTimeSetup")
 class LoginPageTests(unittest.TestCase):

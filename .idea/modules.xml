@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../selenium_pratice/.idea/selenium_pratice.iml" filepath="$PROJECT_DIR$/../selenium_pratice/.idea/selenium_pratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/upmove_framework.iml" filepath="$PROJECT_DIR$/.idea/upmove_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webFlow_AutomationFramework/.idea/webFlow_AutomationFramework.iml" filepath="$PROJECT_DIR$/../webFlow_AutomationFramework/.idea/webFlow_AutomationFramework.iml" />
     </modules>
   </component>
 </project>

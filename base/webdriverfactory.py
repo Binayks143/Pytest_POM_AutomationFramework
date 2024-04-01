@@ -85,7 +85,7 @@ class WebDriverFactory():
             ChromeDriverManager().install()
             driver = webdriver.Chrome()
 
-        driver.implicitly_wait(5)
+        driver.implicitly_wait(10)
         driver.maximize_window()
         driver.get(baseurl)
         return driver

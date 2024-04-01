@@ -11,7 +11,7 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
-import utilites.custom_logger as cl
+import utilities.custom_logger as cl
 import logging
 import time
 import os
@@ -211,7 +211,7 @@ class SeleniumDriver():
                               " locatorType: " + locatorType)
                 return False
         except:
-            print("Element not found")
+            self.log.info("Element not found")
             return False
 
     def isElementDisplayed(self, locator="", locatorType="id", element=None):
@@ -232,7 +232,7 @@ class SeleniumDriver():
                               " locatorType: " + locatorType)
             return isDisplayed
         except:
-            print("Element not found")
+            self.log.info("Element not found")
             return False
 
     def elementPresenceCheck(self, locator, byType):
@@ -310,7 +310,7 @@ class SeleniumDriver():
                 self.switchToDefaultContent()
             return result
         except:
-            print("iFrame index not found in the webpage")
+            self.log.info("iFrame index not found in the webpage")
             return result
 
     def switchToFrame(self, id="", name="", index=None):
@@ -425,3 +425,21 @@ class SeleniumDriver():
             self.log.info("Cannot click on dropdown element the element with locator: " + locator +
                           " locatorType: " + locatorType)
             print_stack()
+
+    def windowSwitch(self):
+        # Find parent handle -> Main Window
+        parentHandle = self.driver.current_window_handle
+        self.log.info("Parent Handle: " + parentHandle)
+
+        # Find all handles, there should two handles after clicking open window button
+        handles = self.driver.window_handles
+
+        # Switch to window and search course
+        for handle in handles:
+            self.log.info("Current New window Handle: " + handle)
+            if handle not in parentHandle:
+                self.driver.switch_to.window(handle)
+                self.log.info("Switched to window:: " + handle)
+                time.sleep(2)
+                # self.driver.close()
+                break

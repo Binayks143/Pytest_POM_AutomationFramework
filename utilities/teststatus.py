@@ -17,7 +17,7 @@ from traceback import print_stack
 
 from base.selenium_driver import SeleniumDriver
 import logging
-import utilites.custom_logger as cl
+import utilities.custom_logger as cl
 class TestStatus(SeleniumDriver):
     log = cl.customLogger(logging.INFO)
 

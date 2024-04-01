@@ -1,5 +1,5 @@
 import unittest
-from utilites.teststatus import TestStatus
+from utilities.teststatus import TestStatus
 from pages.courses.register_courses_page import RegisterCoursesPage
 import pytest
 from ddt import ddt,data,unpack

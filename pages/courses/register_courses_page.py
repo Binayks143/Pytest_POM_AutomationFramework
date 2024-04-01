@@ -1,8 +1,5 @@
 import time
-
-from selenium.webdriver.support.select import Select
-
-import utilites.custom_logger as cl
+import utilities.custom_logger as cl
 import logging
 from base.basepage import BasePage
 

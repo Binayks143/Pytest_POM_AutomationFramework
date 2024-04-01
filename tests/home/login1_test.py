@@ -1,6 +1,6 @@
 from seleniumwire import webdriver
 
-#from pages.home.login_page_01 import LoginPage
+#from pages.homepage.login_page_01 import LoginPage
 from pages.home.login_page_02 import LoginPage
 
 

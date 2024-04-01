@@ -2,7 +2,7 @@
 
 import logging
 import time
-import utilites.custom_logger as cl
+import utilities.custom_logger as cl
 from base.basepage import BasePage
 from pages.common.navigate_page import NavigationPage
 

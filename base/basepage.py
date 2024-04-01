@@ -12,7 +12,7 @@ Example:
 """
 from base.selenium_driver import SeleniumDriver
 from traceback import print_stack
-from utilites.util import Util
+from utilities.util import Util
 
 class BasePage(SeleniumDriver):
 

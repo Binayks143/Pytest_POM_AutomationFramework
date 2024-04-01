@@ -42,7 +42,7 @@ Overall, this code allows users to specify command-line options (--browser and -
 """
 
 #NOTE : to use this conftest always go project directory and run the test cases
-#E.g.  python -m pytest -s -v .\tests\home\login3_test.py
+#E.g.  python -m pytest -s -v .\tests\homepage\login3_test.py
 
 
 import pytest
