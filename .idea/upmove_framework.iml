@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="selenium_pratice" />
     <orderEntry type="module" module-name="Temp" />
     <orderEntry type="module" module-name="webFlow_AutomationFramework" />
+    <orderEntry type="module" module-name="robatframework" />
   </component>
 </module>

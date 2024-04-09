@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.10.1 on win32)" generated="2024-04-09T14:44:19.871805" rpa="false" schemaversion="5">
+<suite id="s1" name="testDemo1" source="C:\Binay\PyChamp\robatframework\tests\testDemo1.robot">
+<test id="s1-t1" name="Example Test Case" line="2">
+<kw name="Open Browser">
+<msg time="2024-04-09T14:44:19.903079" level="FAIL">No keyword with name 'Open Browser' found.</msg>
+<arg>http://www.google.com</arg>
+<arg>chrome</arg>
+<status status="FAIL" start="2024-04-09T14:44:19.903079" elapsed="0.000000">No keyword with name 'Open Browser' found.</status>
+</kw>
+<kw name="Page Should Contain">
+<arg>Example Domain</arg>
+<status status="NOT RUN" start="2024-04-09T14:44:19.903079" elapsed="0.000000"/>
+</kw>
+<kw name="Close Browser">
+<status status="NOT RUN" start="2024-04-09T14:44:19.903079" elapsed="0.000000"/>
+</kw>
+<doc>This is an example test case</doc>
+<tag>example</tag>
+<status status="FAIL" start="2024-04-09T14:44:19.903079" elapsed="0.000000">No keyword with name 'Open Browser' found.</status>
+</test>
+<status status="FAIL" start="2024-04-09T14:44:19.871805" elapsed="0.031274"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">example</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="testDemo1">testDemo1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
