@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python_pratice/.idea/Python_Pratice.iml" filepath="$PROJECT_DIR$/../python_pratice/.idea/Python_Pratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/../temp/.idea/Temp.iml" filepath="$PROJECT_DIR$/../temp/.idea/Temp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../robatframework/.idea/robatframework.iml" filepath="$PROJECT_DIR$/../robatframework/.idea/robatframework.iml" />
