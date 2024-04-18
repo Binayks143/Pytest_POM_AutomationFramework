@@ -876,3 +876,455 @@
 10/04/2024 01:36:13 PM - LoginPage - INFO: Element present with locator: dropdownMenu1 locatorType: id
 10/04/2024 01:36:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Login was successful
 10/04/2024 01:36:13 PM - TestStatus - INFO: TestValidLoginTest Case Passed
+12/04/2024 11:51:22 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 11:51:23 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 11:51:23 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 11:51:23 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 11:51:23 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 11:51:23 AM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 11:51:23 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 11:51:23 AM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 11:51:26 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 11:51:26 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 11:51:31 AM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 11:51:37 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 11:51:37 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 11:51:37 AM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 11:51:37 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 11:51:38 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 11:51:41 AM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 11:51:42 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 11:51:47 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 11:51:55 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 11:52:01 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 11:52:01 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 11:52:01 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.184")>
+12/04/2024 11:52:01 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 11:52:01 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 11:52:01 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 11:52:02 AM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 11:52:02 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 11:52:02 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 11:52:02 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.184")>
+12/04/2024 11:52:12 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:52:12 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.185")>
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.186")>
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Sent data=1025 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 11:52:22 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.184")>
+12/04/2024 11:52:32 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:52:32 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.185")>
+12/04/2024 11:52:42 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:52:42 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.186")>
+12/04/2024 11:52:52 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:52:52 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.187")>
+12/04/2024 11:53:02 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:53:02 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.4B1D0C1A691D79CCB9362795F6DE55B6.e.188")>
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 11:53:03 AM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='Austria'
+12/04/2024 11:53:05 AM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 11:53:05 AM - RegisterCoursesPage - INFO: Clicked on element with locator: (//button[@type="button"])[5] locatorType: xpath
+12/04/2024 11:53:05 AM - RegisterCoursesPage - INFO: waiting for maximum 10 second for element to clickable
+12/04/2024 11:53:14 AM - RegisterCoursesPage - INFO: Element Appeared on the webpage
+12/04/2024 11:53:14 AM - RegisterCoursesPage - INFO: Element is displayed with locator:  locatorType: id
+12/04/2024 11:53:14 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Enrollment Failed Verification
+12/04/2024 11:53:14 AM - TestStatus - INFO: test_invalidEnrollmentTest Case Passed
+12/04/2024 11:53:14 AM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 11:53:15 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 11:53:15 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 11:53:16 AM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 11:53:16 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 11:53:16 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 11:53:19 AM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 11:53:20 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 11:53:25 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 11:53:30 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.345")>
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 11:53:36 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.345")>
+12/04/2024 11:53:46 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:53:46 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.346")>
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.347")>
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Sent data=1022 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 11:53:57 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.345")>
+12/04/2024 11:54:07 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:54:07 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.346")>
+12/04/2024 11:54:17 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:54:17 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.347")>
+12/04/2024 11:54:27 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:54:27 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.348")>
+12/04/2024 11:54:37 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:54:37 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="6f4028bde15088528bc8de37d668fd3e", element="f.5CE16348C4FE4C32D6C8DDE7EA943795.d.714ED3C48ABB5181C42B0E9A667359F9.e.349")>
+12/04/2024 11:54:37 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:54:37 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 11:54:37 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 11:54:37 AM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 11:54:38 AM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 11:54:38 AM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 11:54:38 AM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='Austria'
+12/04/2024 11:54:40 AM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 11:54:40 AM - RegisterCoursesPage - INFO: Element :: 'Buy Button' is not enabled
+12/04/2024 11:54:40 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : ExpiryDate validation
+12/04/2024 11:54:40 AM - TestStatus - INFO: test_improperExpiryDateTest Case Passed
+12/04/2024 12:26:55 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:26:56 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:26:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:26:56 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:26:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:26:56 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:26:56 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:26:56 PM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 12:26:59 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:26:59 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:27:04 PM - NavigationPage - INFO: waiting for maximum 10 second for element to clickable
+12/04/2024 12:27:05 PM - NavigationPage - INFO: Element Appeared on the webpage
+12/04/2024 12:27:05 PM - NavigationPage - INFO: Clicked on element with locator:  locatorType: id
+12/04/2024 12:27:05 PM - LoginPage - INFO: Element found with locator: Logout and  locatorType: linktext
+12/04/2024 12:27:06 PM - LoginPage - INFO: Clicked on element with locator: Logout locatorType: linktext
+12/04/2024 12:27:06 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:27:07 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:27:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:27:07 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:27:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:27:07 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:27:07 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:27:08 PM - LoginPage - INFO: Sent data=Binay1234@ on element with locator: login-password locatorType: ID
+12/04/2024 12:27:11 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:27:11 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:27:16 PM - LoginPage - INFO: Element list found with locator: //span[contains(text(),'Incorrect login details. Please try again.')] and  locatorType: xpath
+12/04/2024 12:27:16 PM - LoginPage - INFO: Element present with locator: //span[contains(text(),'Incorrect login details. Please try again.')] locatorType: xpath
+12/04/2024 12:27:30 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:27:31 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:27:31 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:27:31 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:27:31 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:27:31 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:27:31 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:27:32 PM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 12:27:35 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:27:35 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:27:40 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 12:27:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 12:27:46 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 12:27:46 PM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 12:27:46 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 12:27:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 12:27:49 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 12:27:52 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 12:27:57 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 12:28:02 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.177")>
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:28:08 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.177")>
+12/04/2024 12:28:18 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:28:18 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.178")>
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.179")>
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Sent data=1025 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 12:28:29 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.177")>
+12/04/2024 12:28:39 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:28:39 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.178")>
+12/04/2024 12:28:49 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:28:49 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.179")>
+12/04/2024 12:28:59 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:28:59 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.180")>
+12/04/2024 12:29:09 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:29:09 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="cb28e1f4f0b767e568c179581ec49c99", element="f.AA37BAC57EE36313CE61EBA8ECC171C1.d.2A4FC70969E4E0517F88E3CE4F917295.e.181")>
+12/04/2024 12:29:09 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:29:09 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 12:29:09 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 12:29:10 PM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:29:10 PM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 12:29:10 PM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 12:29:10 PM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='Austria'
+12/04/2024 12:29:12 PM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 12:29:12 PM - RegisterCoursesPage - INFO: Clicked on element with locator: (//button[@type="button"])[5] locatorType: xpath
+12/04/2024 12:29:12 PM - RegisterCoursesPage - INFO: waiting for maximum 10 second for element to clickable
+12/04/2024 12:29:19 PM - RegisterCoursesPage - INFO: Element Appeared on the webpage
+12/04/2024 12:29:19 PM - RegisterCoursesPage - INFO: Element is displayed with locator:  locatorType: id
+12/04/2024 12:29:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Enrollment Failed Verification
+12/04/2024 12:29:19 PM - TestStatus - INFO: test_invalidEnrollmentTest Case Passed
+12/04/2024 12:29:33 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:29:33 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:29:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:29:33 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:29:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:29:34 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:29:34 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:29:34 PM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 12:29:37 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:29:37 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:29:42 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 12:29:48 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 12:29:48 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 12:29:48 PM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 12:29:48 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 12:29:48 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 12:29:51 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 12:29:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 12:29:59 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 12:30:03 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.182")>
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:30:10 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.182")>
+12/04/2024 12:30:20 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:30:20 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.183")>
+12/04/2024 12:30:30 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:30:30 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.184")>
+12/04/2024 12:30:30 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:30:30 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 12:30:30 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 12:30:31 PM - RegisterCoursesPage - INFO: Sent data=1025 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:30:31 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:30:31 PM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 12:30:31 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.182")>
+12/04/2024 12:30:41 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:30:41 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.183")>
+12/04/2024 12:30:51 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:30:51 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.184")>
+12/04/2024 12:31:01 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:31:01 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.185")>
+12/04/2024 12:31:11 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:31:11 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.07AB93F26B09E2D6C7FD923B29E0E09A.e.186")>
+12/04/2024 12:31:11 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:31:11 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 12:31:11 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 12:31:11 PM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:31:12 PM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 12:31:12 PM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 12:31:12 PM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='India'
+12/04/2024 12:31:14 PM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 12:31:14 PM - RegisterCoursesPage - INFO: Clicked on element with locator: (//button[@type="button"])[5] locatorType: xpath
+12/04/2024 12:31:14 PM - RegisterCoursesPage - INFO: waiting for maximum 10 second for element to clickable
+12/04/2024 12:31:23 PM - RegisterCoursesPage - INFO: Element Appeared on the webpage
+12/04/2024 12:31:23 PM - RegisterCoursesPage - INFO: Element is displayed with locator:  locatorType: id
+12/04/2024 12:31:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Enrollment Failed Verification
+12/04/2024 12:31:23 PM - TestStatus - INFO: test_invalidEnrollmentTest Case Passed
+12/04/2024 12:31:23 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 12:31:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 12:31:24 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 12:31:24 PM - RegisterCoursesPage - INFO: Sent data=rest on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 12:31:24 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 12:31:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 12:31:27 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 12:31:30 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 12:31:35 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 12:31:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 12:31:45 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:31:45 PM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 12:31:45 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.357")>
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 12:31:46 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.357")>
+12/04/2024 12:31:56 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:31:56 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.358")>
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.359")>
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Sent data=0928 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Length of iframe list: 11
+12/04/2024 12:32:06 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.357")>
+12/04/2024 12:32:17 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:32:17 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.358")>
+12/04/2024 12:32:27 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:32:27 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.359")>
+12/04/2024 12:32:37 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:32:37 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.360")>
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="349e85f44c1762952bcfa6ab2816e729", element="f.6140685A2B9D985994A590A6E8F7EEDD.d.8014767BFDB322DF19B5E7749BB2B8EC.e.361")>
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: Sent data=908 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:32:47 PM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 12:32:48 PM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 12:32:48 PM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='China'
+12/04/2024 12:32:50 PM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 12:32:50 PM - RegisterCoursesPage - INFO: Clicked on element with locator: (//button[@type="button"])[5] locatorType: xpath
+12/04/2024 12:32:50 PM - RegisterCoursesPage - INFO: waiting for maximum 10 second for element to clickable
+12/04/2024 12:32:57 PM - RegisterCoursesPage - INFO: Element Appeared on the webpage
+12/04/2024 12:32:57 PM - RegisterCoursesPage - INFO: Element is displayed with locator:  locatorType: id
+12/04/2024 12:32:57 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Enrollment Failed Verification
+12/04/2024 12:32:57 PM - TestStatus - INFO: test_invalidEnrollmentTest Case Passed
+12/04/2024 12:33:11 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:33:12 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:33:12 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:33:12 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:33:12 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:33:12 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:33:12 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:33:12 PM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 12:33:15 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:33:16 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:33:35 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:33:35 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:33:35 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:33:58 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:33:59 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:33:59 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:33:59 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:33:59 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:33:59 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:33:59 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:33:59 PM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 12:34:02 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:34:02 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:34:11 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 12:34:17 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 12:34:17 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 12:34:17 PM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 12:34:17 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 12:34:17 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 12:34:20 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 12:34:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 12:34:28 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 12:34:33 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.179")>
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:34:39 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.179")>
+12/04/2024 12:34:49 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:34:49 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.180")>
+12/04/2024 12:34:59 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:34:59 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.181")>
+12/04/2024 12:34:59 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:34:59 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 12:34:59 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 12:35:00 PM - RegisterCoursesPage - INFO: Sent data=1022 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:35:00 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:35:00 PM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 12:35:00 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.179")>
+12/04/2024 12:35:10 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:35:10 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.180")>
+12/04/2024 12:35:20 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:35:20 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.181")>
+12/04/2024 12:35:30 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:35:30 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.182")>
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="afea7e7eb4d15a0550be3284dc7034e6", element="f.46D50B31468F667006548C8E98BF1413.d.63EBF3C4A7644BCBDAFAA1DB2EDA0F5B.e.183")>
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 12:35:40 PM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 12:35:41 PM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='Austria'
+12/04/2024 12:35:43 PM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 12:35:43 PM - RegisterCoursesPage - INFO: Element :: 'Buy Button' is not enabled
+12/04/2024 12:35:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : ExpiryDate validation
+12/04/2024 12:35:43 PM - TestStatus - INFO: test_improperExpiryDateTest Case Passed
+12/04/2024 12:35:55 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+12/04/2024 12:35:56 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/04/2024 12:35:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:35:56 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:35:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/04/2024 12:35:56 PM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+12/04/2024 12:35:56 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+12/04/2024 12:35:57 PM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+12/04/2024 12:36:00 PM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+12/04/2024 12:36:00 PM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+12/04/2024 12:36:09 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+12/04/2024 12:36:14 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+12/04/2024 12:36:14 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+12/04/2024 12:36:14 PM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+12/04/2024 12:36:14 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+12/04/2024 12:36:15 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+12/04/2024 12:36:18 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+12/04/2024 12:36:22 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+12/04/2024 12:36:27 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+12/04/2024 12:36:33 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+12/04/2024 12:36:39 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:36:39 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:36:39 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.178")>
+12/04/2024 12:36:39 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:36:39 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+12/04/2024 12:36:39 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+12/04/2024 12:36:40 PM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+12/04/2024 12:36:40 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:36:40 PM - RegisterCoursesPage - INFO: Length of iframe list: 13
+12/04/2024 12:36:40 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.178")>
+12/04/2024 12:36:50 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:36:50 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.179")>
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.180")>
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Sent data=1022 on element with locator: //input[@name='exp-date'] locatorType: xpath
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Length of iframe list: 12
+12/04/2024 12:37:00 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.178")>
+12/04/2024 12:37:10 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:37:10 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.179")>
+12/04/2024 12:37:20 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:37:20 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.180")>
+12/04/2024 12:37:30 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:37:30 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.181")>
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="c08c495811aa57530b049c1a30f5fd8a", element="f.C029839A49CD1CB3AEC407FCDA9EADD4.d.14D62E250AE9AB8B3BED5CAD0BB0A3AE.e.182")>
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+12/04/2024 12:37:41 PM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='India'
+12/04/2024 12:37:43 PM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+12/04/2024 12:37:44 PM - RegisterCoursesPage - INFO: Element :: 'Buy Button' is not enabled
+12/04/2024 12:37:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : ExpiryDate validation
+12/04/2024 12:37:44 PM - TestStatus - INFO: test_improperExpiryDateTest Case Passed

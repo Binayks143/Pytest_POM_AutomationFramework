@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="C:\Binay\PyChamp\robatframework\tests\resourses\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\externalFiles\coursesdata.csv">
           <value>
             <Attribute>
