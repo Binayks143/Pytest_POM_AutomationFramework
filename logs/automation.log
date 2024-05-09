@@ -1,0 +1,167 @@
+01/05/2024 01:30:01 AM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+01/05/2024 01:30:02 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+01/05/2024 01:30:02 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+01/05/2024 01:30:02 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+01/05/2024 01:30:02 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+01/05/2024 01:30:02 AM - LoginPage - INFO: Sent data=binayks143@yahoo.com on element with locator: email locatorType: id
+01/05/2024 01:30:02 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+01/05/2024 01:30:02 AM - LoginPage - INFO: Sent data=Binay123@ on element with locator: login-password locatorType: ID
+01/05/2024 01:30:05 AM - LoginPage - INFO: Element found with locator: //button[@value='Login'] and  locatorType: xpath
+01/05/2024 01:30:05 AM - LoginPage - INFO: Clicked on element with locator: //button[@value='Login'] locatorType: xpath
+01/05/2024 01:30:10 AM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+01/05/2024 01:30:16 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+01/05/2024 01:30:16 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+01/05/2024 01:30:16 AM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+01/05/2024 01:30:16 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+01/05/2024 01:30:16 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+01/05/2024 01:30:19 AM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+01/05/2024 01:30:21 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+01/05/2024 01:30:26 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+01/05/2024 01:30:31 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.190")>
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+01/05/2024 01:30:37 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.190")>
+01/05/2024 01:30:47 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+01/05/2024 01:30:47 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.191")>
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='exp-date'] locatorType: xpath
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.192")>
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='exp-date'] locatorType: xpath
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:2
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Sent data=1025 on element with locator: //input[@name='exp-date'] locatorType: xpath
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Length of iframe list: 12
+01/05/2024 01:30:57 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.190")>
+01/05/2024 01:31:07 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+01/05/2024 01:31:07 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.191")>
+01/05/2024 01:31:17 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+01/05/2024 01:31:17 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.192")>
+01/05/2024 01:31:27 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+01/05/2024 01:31:27 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.193")>
+01/05/2024 01:31:37 AM - RegisterCoursesPage - INFO: Element not present with locator: //input[@name='cvc'] locatorType: xpath
+01/05/2024 01:31:37 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.DC7B2122DF8A342F02EC4D3543409DBB.e.194")>
+01/05/2024 01:31:37 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@name='cvc'] locatorType: xpath
+01/05/2024 01:31:37 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:4
+01/05/2024 01:31:38 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+01/05/2024 01:31:38 AM - RegisterCoursesPage - INFO: Sent data=888 on element with locator: //input[@name='cvc'] locatorType: xpath
+01/05/2024 01:31:38 AM - RegisterCoursesPage - INFO: Element found with locator: country-list and  locatorType: name
+01/05/2024 01:31:38 AM - RegisterCoursesPage - INFO: Clicked on the dropdown element with locator: country-listand locatorType: name
+01/05/2024 01:31:38 AM - RegisterCoursesPage - INFO: Selected dropdown option with given visible_text='Austria'
+01/05/2024 01:31:40 AM - RegisterCoursesPage - INFO: Element found with locator: (//button[@type="button"])[5] and  locatorType: xpath
+01/05/2024 01:31:40 AM - RegisterCoursesPage - INFO: Clicked on element with locator: (//button[@type="button"])[5] locatorType: xpath
+01/05/2024 01:31:40 AM - RegisterCoursesPage - INFO: waiting for maximum 10 second for element to clickable
+01/05/2024 01:31:47 AM - RegisterCoursesPage - INFO: Element Appeared on the webpage
+01/05/2024 01:31:48 AM - RegisterCoursesPage - INFO: Element is displayed with locator:  locatorType: id
+01/05/2024 01:31:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Enrollment Failed Verification
+01/05/2024 01:31:48 AM - TestStatus - INFO: test_invalidEnrollmentTest Case Passed
+01/05/2024 01:31:48 AM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'ALL COURSES')] and  locatorType: xpath
+01/05/2024 01:31:49 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'ALL COURSES')] locatorType: xpath
+01/05/2024 01:31:49 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+01/05/2024 01:31:49 AM - RegisterCoursesPage - INFO: Sent data=JavaScript on element with locator: //input[@id='search'] locatorType: xpath
+01/05/2024 01:31:49 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='find-course search-course'] and  locatorType: xpath
+01/05/2024 01:31:49 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='find-course search-course'] locatorType: xpath
+01/05/2024 01:31:52 AM - RegisterCoursesPage - INFO: Element found with locator: //h4[@class='dynamic-heading'] and  locatorType: xpath
+01/05/2024 01:31:53 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[@class='dynamic-heading'] locatorType: xpath
+01/05/2024 01:31:58 AM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),"Enroll in Course")] and  locatorType: xpath
+01/05/2024 01:32:03 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),"Enroll in Course")] locatorType: xpath
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.9A0FDF9DAB69D85D714892B263EF589E.e.321")>
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Element present with locator: //input[@placeholder='Card Number'] locatorType: xpath
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: iframe found in the webpage and index is:0
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='Card Number'] and  locatorType: xpath
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Sent data=370000000000002 on element with locator: //input[@placeholder='Card Number'] locatorType: xpath
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Element list found with locator: //iframe and  locatorType: xpath
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Length of iframe list: 13
+01/05/2024 01:32:09 AM - RegisterCoursesPage - INFO: Switch frame with index: <selenium.webdriver.remote.webelement.WebElement (session="8f94ef707bf78e6eb7f167120d621842", element="f.7DD5025FF76E8905A27BD77EE6E4E696.d.9A0FDF9DAB69D85D714892B263EF589E.e.321")>
+01/05/2024 01:32:18 AM - RegisterCoursesPage - INFO: Element is not avaialble on page
+01/05/2024 01:32:20 AM - RegisterCoursesPage - INFO: iFrame index not found in the webpage
+01/05/2024 01:32:22 AM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and  locatorType: xpath
+01/05/2024 01:32:22 AM - RegisterCoursesPage - INFO: Cannot send data=1022 on the element with locator: //input[@name='exp-date'] locatorType: xpath
+01/05/2024 01:32:22 AM - RegisterCoursesPage - ERROR: Exception Caught: Traceback (most recent call last):
+  File "C:\Binay\PyChamp\upmove_framework\base\selenium_driver.py", line 125, in sendKeys
+    element.send_keys(data)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+
+01/05/2024 01:32:22 AM - RegisterCoursesPage - ERROR:   File "C:\Python310\Lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Python310\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Python310\lib\site-packages\pytest\__main__.py", line 5, in <module>
+    raise SystemExit(pytest.console_main())
+  File "C:\Python310\lib\site-packages\_pytest\config\__init__.py", line 192, in console_main
+    code = main()
+  File "C:\Python310\lib\site-packages\_pytest\config\__init__.py", line 169, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Python310\lib\site-packages\pluggy\_hooks.py", line 501, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_manager.py", line 119, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_callers.py", line 102, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python310\lib\site-packages\_pytest\main.py", line 318, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Python310\lib\site-packages\_pytest\main.py", line 271, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Python310\lib\site-packages\_pytest\main.py", line 325, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Python310\lib\site-packages\pluggy\_hooks.py", line 501, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_manager.py", line 119, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_callers.py", line 102, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python310\lib\site-packages\_pytest\main.py", line 350, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Python310\lib\site-packages\pluggy\_hooks.py", line 501, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_manager.py", line 119, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_callers.py", line 102, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 114, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 133, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 222, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 261, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 341, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 262, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Python310\lib\site-packages\pluggy\_hooks.py", line 501, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_manager.py", line 119, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Python310\lib\site-packages\pluggy\_callers.py", line 102, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Python310\lib\site-packages\_pytest\runner.py", line 169, in pytest_runtest_call
+    item.runtest()
+  File "C:\Python310\lib\site-packages\_pytest\unittest.py", line 333, in runtest
+    self._testcase(result=self)  # type: ignore[arg-type]
+  File "C:\Python310\Lib\unittest\case.py", line 650, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Python310\Lib\unittest\case.py", line 591, in run
+    self._callTestMethod(testMethod)
+  File "C:\Python310\Lib\unittest\case.py", line 549, in _callTestMethod
+    method()
+  File "C:\Binay\PyChamp\upmove_framework\tests\courses\register_courses_tests.py", line 21, in test_improperExpiryDate
+    self.courses.enrollCourse(course_name="JavaScript", card_no=370000000000002, expiry_date=1022, cvv=888,countryName="Austria")
+  File "C:\Binay\PyChamp\upmove_framework\pages\courses\register_courses_page.py", line 82, in enrollCourse
+    self.enterCreditCardInformation(card_no,expiry_date,cvv)
+  File "C:\Binay\PyChamp\upmove_framework\pages\courses\register_courses_page.py", line 64, in enterCreditCardInformation
+    self.enterCardExpiry(cardExpiryDate)
+  File "C:\Binay\PyChamp\upmove_framework\pages\courses\register_courses_page.py", line 53, in enterCardExpiry
+    self.sendKeys(cardExpiry,self.__cardExpiryDate,"xpath")
+  File "C:\Binay\PyChamp\upmove_framework\base\selenium_driver.py", line 132, in sendKeys
+    self.log.error("".join(traceback.format_stack()))
+
