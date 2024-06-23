@@ -10,5 +10,7 @@
     <orderEntry type="module" module-name="webFlow_AutomationFramework" />
     <orderEntry type="module" module-name="robatframework" />
     <orderEntry type="module" module-name="Python_Pratice" />
+    <orderEntry type="module" module-name="behaveProject" />
+    <orderEntry type="module" module-name="HappyFox Automation Task Python" />
   </component>
 </module>

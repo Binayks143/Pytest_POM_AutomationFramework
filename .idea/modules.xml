@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Python selenium notes/HappyFox Automation Task Python/.idea/HappyFox Automation Task Python.iml" filepath="$USER_HOME$/Desktop/Python selenium notes/HappyFox Automation Task Python/.idea/HappyFox Automation Task Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python_pratice/.idea/Python_Pratice.iml" filepath="$PROJECT_DIR$/../python_pratice/.idea/Python_Pratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/../temp/.idea/Temp.iml" filepath="$PROJECT_DIR$/../temp/.idea/Temp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../behaveProject/.idea/behaveProject.iml" filepath="$PROJECT_DIR$/../behaveProject/.idea/behaveProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../robatframework/.idea/robatframework.iml" filepath="$PROJECT_DIR$/../robatframework/.idea/robatframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/../selenium_pratice/.idea/selenium_pratice.iml" filepath="$PROJECT_DIR$/../selenium_pratice/.idea/selenium_pratice.iml" />
