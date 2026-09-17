@@ -1,7 +1,7 @@
 #This is the default file name for pytest configuration
 # when scope =module it will run only one time in the module
 # example is in test_case_03.py
-#scopr =session,class,module
+#scope =session,class,module
 
 """
 This code snippet seems to be related to setting up fixtures and options for pytest, a popular testing framework in Python. Let's break down what each part does:
